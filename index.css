@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+nav{
+  background: url(images/wallpaper.jpg)fixed;
+}
+body{
+  background-color: black;
+  margin: 0px;
+  color: white;
+}
+h1{
+  color: black;
+  font-size: 45px;
+  margin-left: 5%;
+  padding-top: 15px;
+}
+/* Place Nav here */
+#section2{
+  background-color: rgb(66, 66, 66);
+  color: white;
+  padding: 10%;
+  font-size: 45px;
+  text-align: center;
+}
+#section4{
+  background-color: rgb(66, 66, 66);
+  color: white;
+  padding: 10%;
+  font-size: 45px;
+  text-align: center;
+}
+#parallax{
+  background: url(images/wallpaper.jpg)fixed;
+  padding: 15%;
+ }
+
+  
